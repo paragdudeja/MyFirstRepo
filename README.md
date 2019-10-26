@@ -7,3 +7,4 @@
 
 This is informative
 # create pull requests here
+# adding info is easy
