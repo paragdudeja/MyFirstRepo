@@ -6,6 +6,4 @@
 
 
 This is informative
-# Learn how to make a pull request
-
-## uptown punk
+# Facebook developers
